@@ -4,9 +4,12 @@ Seja bem-vindo(a) ao Imersão Spotify ! 🎶
 Meu primeiro projeto :)) <3
 Este projeto foi desenvolvido durante a Imersão Front-end da Alura , onde recriamos a página inicial do Spotify com HTML, CSS e JavaScript . O objetivo foi praticar e aprimorar nossas habilidades em estruturação, estilização e interatividade no desenvolvimento web.
 
-🚀 Tecnologias Utilizadas
+🚀 Tecnologias Utilizadas:
+
 ✨ HTML5 → Estrutura da página
+
 🎨 CSS3 → Estilização e responsividade
+
 ⚡ JavaScript → Interatividade e dinamismo
 
 🎨 Veja o Projeto em Ação!
